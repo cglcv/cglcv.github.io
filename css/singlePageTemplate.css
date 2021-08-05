@@ -78,6 +78,11 @@ ul li:hover a {
 	padding-top: 150px;
 	padding-bottom: 150px;
 }
+.hero-sub {
+    background-color: #6B6B6B;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
 .light {
 	font-weight: bold;
 	color: #C2BDBD;
