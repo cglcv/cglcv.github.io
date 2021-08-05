@@ -212,7 +212,7 @@ footer .footer_column p {
 }
 .button {
 	width: 200px;
-	margin-top: 40px;
+	/*margin-top: 40px;*/
 	background-color: #66ccff;
 	margin-right: auto;
 	margin-bottom: auto;
@@ -235,6 +235,9 @@ footer .footer_column p {
 	background-color: #C5EBFF;
 	color: #676767;
 	cursor: pointer;
+}
+.music{
+	text-align: center;
 }
 .copyright {
 	text-align: center;
