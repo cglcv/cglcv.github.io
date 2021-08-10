@@ -35,14 +35,12 @@
     </nav>
   </header>
   <!-- Hero Section -->
-  <section class="hero-sub" id="hero">
-    <h2 class="hero_header"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></h2>
-    
-    <p class="tagline"><!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable --></p>
-   </section>
-	<h2 align="center"><!-- TemplateBeginEditable name="EditRegion5" -->EditRegion5<!-- TemplateEndEditable --></h2>
-  <!-- About Section --><!-- TemplateBeginEditable name="EditRegion6" -->EditRegion6<!-- TemplateEndEditable -->
-	
+	<h2 align="center"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></h2>
+  <!-- About Section -->
+ <div style="padding-left: 20px">
+	<!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable -->
+
+</div> 	
 	 
   <!-- Copyrights Section -->
   <div class="copyright">
